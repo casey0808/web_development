@@ -1,4 +1,4 @@
-## web development
+## Web Development
 
 - [Color Game](https://casey0808.github.io/web_development/color_game/colorGame.html)
 - [Patatap Clone](https://casey0808.github.io/web_development/patatap_clone/circles.html)
